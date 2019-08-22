@@ -1,4 +1,10 @@
 .error {
 font-size: 800%;
-}
+color: blanchedalmond}
 
+body {
+    background-image: url(simula.jpg);
+    background-repeat: no-repeat;
+    background-size : cover 
+
+}
